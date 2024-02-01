@@ -8,8 +8,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haru0805&theme=default" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haru0805&theme=default&utcOffset=8" />
 </p>
-
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru0805&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haru0805" />
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru0805&theme=default" />
