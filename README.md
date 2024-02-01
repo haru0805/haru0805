@@ -8,4 +8,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haru0805&theme=default" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haru0805&theme=default&utcOffset=8" />
 </p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru0805&theme=default" />
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru0805&theme=default" />
+</p>
