@@ -1,13 +1,15 @@
-![](https://skillicons.dev/icons?i=python)
+<img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haru0805&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haru0805&theme=default" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haru0805&theme=default)
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haru0805&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haru0805&theme=default&utcOffset=8" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haru0805&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haru0805&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haru0805&theme=default&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru0805&theme=default)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=haru0805)
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru0805&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haru0805" />
+</p>
